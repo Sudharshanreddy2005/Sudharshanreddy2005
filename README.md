@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Sudharshan Reddy Nagireddy</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi 👋, I'm Sudharshan Reddy Nagireddy
 
-- 🔭 I’m currently working on **E-Learning project(50% work done)**
+🚀 A Passionate Full Stack Developer and AI Enthusiast from India 🌍
 
-- 🌱 I’m currently learning **react**
+![Profile views](https://komarev.com/ghpvc/?username=Sudharshanreddy2005&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🤝 I’m looking for help with [Portfolio](https://sudharshanreddy2005.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-informational)](https://sudharshanreddy2005.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue)](https://www.linkedin.com/in/nagireddysudharshanreddy/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-black)](https://github.com/Sudharshanreddy2005)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PRACTICE-orange)](https://leetcode.com/u/sudharshanreddy2005/)
 
-- 👨‍💻 All of my projects are available at [https://sudharshanreddy2005.github.io/Portfolio/](https://sudharshanreddy2005.github.io/Portfolio/)
+---
 
-- 💬 Ask me about **html,css,javascript,react,sql**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **sudharshanreddy703@gmail.com**
+Hi there! I'm a **Full Stack Developer** currently pursuing my **B.Tech in Computer Science and Engineering with AI & DS at Parul University**.  
+I'm passionate about creating impactful web applications and leveraging **AI technologies** to build smart solutions.
 
-- 📄 Know about my experiences [https://sudharshanreddy2005.github.io/Resume/](https://sudharshanreddy2005.github.io/Resume/)
+💡 I love solving problems using **Data Structures and Algorithms**, building real-world projects, and learning new frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nagireddysudharshanreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nagireddysudharshanreddy" height="30" width="40" /></a>
-</p>
+🧠 I'm eager to collaborate, innovate, and grow in a dynamic tech environment!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Skills
+
+- **Languages:** Java, Python, HTML, CSS, JavaScript  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Flask, RESTful APIs  
+- **Database:** MySQL, MongoDB (Basics), SQL  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, DSA Basics  
+- **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Adaptability  
+
+---
+
+## 🔥 Projects
+
+- 🎮 [**Chess Game**](https://sudharshanreddy2005.github.io/Chess-Game-/) | [GitHub](https://github.com/Sudharshanreddy2005/Chess-Game-)  
+  A browser-based chess game with full support for standard rules.  
+  **Tech:** HTML, CSS, JavaScript
+
+- 🎵 [**Song Lyrics Finder**](https://sudharshanreddy2005.github.io/songs-lyrics-finder/) | [GitHub](https://github.com/Sudharshanreddy2005/songs-lyrics-finder)  
+  Simple lyrics finder using the lyrics.ovh API.  
+  **Tech:** HTML, CSS, JavaScript
+
+- 🍽️ [**Restaurant Website (Frontend)**](https://sudharshanreddy2005.github.io/Restaurant-s-website-frontend-/) | [GitHub](https://github.com/Sudharshanreddy2005/Restaurant-s-website-frontend-)  
+  Responsive restaurant website UI.  
+  **Tech:** HTML, CSS, JavaScript
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science and Engineering (AI & DS)**  
+*Parul University, Vadodara, Gujarat*  
+📅 *Expected Graduation: 2026*  
+📊 **CGPA:** 8.36  
+
+---
+
+## 📜 Certifications
+
+- 🧠 Computer Networks and Internet Protocol - NPTEL  
+- 👨‍💻 Full Stack Developer Bootcamp - GeeksForGeeks  
+- 🐍 Python Essentials 1 & 2 - Python Institute, Cisco  
+- ⚙️ Golang - Oneroadmap  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [sudharshanreddy703@gmail.com](mailto:sudharshanreddy703@gmail.com)  
+- 📱 Phone: +91 9182538637  
+- 🧑‍💻 GitHub: [Sudharshanreddy2005](https://github.com/Sudharshanreddy2005)  
+- 💼 LinkedIn: [nagireddysudharshanreddy](https://www.linkedin.com/in/nagireddysudharshanreddy/)  
+- 🌐 Portfolio: [Visit My Portfolio](https://sudharshanreddy2005.github.io/Portfolio/)
+
+---
+
+> “Code. Learn. Build. Repeat.” 🚀
